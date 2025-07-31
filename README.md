@@ -1,4 +1,4 @@
-# heart_insight
+# HeartInsight
 
 A new Flutter project.
 
